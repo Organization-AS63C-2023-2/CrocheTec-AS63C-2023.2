@@ -1,6 +1,6 @@
 # Requisitos Funcionais
 
-| ID   | Requisito NF                                                                                                 | Categoria/Tipo     |  Prioridade |  Requisitos Relacionados |
+| ID   | Requisito NF                                                                                                 | Prioridade     |  Categoria/Tipo  |  Requisitos Relacionados |
 | ---- | ------------------------------------------------------------------------------------------------------------ | ------------------ | -------------- | ----------------------- |
 | RNF01 | Os usuários devem ser capazes de utilizar todas as funcionalidades do sistema após 5 minutos de treinamento. |    Alta     |Usabilidade        |          RNF02          |
 | RNF02 | Os usuários devem ser capazes de acessar a ajuda online de qualquer página do sistema.                       |    Alta     |Usabilidade        |          RNF01          |
