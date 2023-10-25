@@ -4,7 +4,7 @@
 |US02| Eu, como Crochetec, quero trazer opções de login diferentes.|Alta|
 |US03| Eu, como Crochetec, quero uma tela dando boas vindas e introduzindo o aplicativo para o usuário. |Alta |
 |US04| Eu, como Crochetec, uma tela que possibilite o usuário a escolher o sistema métrico que deseja utilizar para contar as linhas. |Alta |
-|US05| Eu, como Crochetec, quero uma tela para o usuário adicionar os ganchos. |Alta|
+|US05| Eu, como Crochetec, quero uma tela para o usuário adicionar agulhas. |Alta|
 |US06| Eu, como Crochetec, quero uma tela que mostre todas as agulhas cadastradas e que possibilite cadastrar mais. |Médio|
 |US07| Eu, como Crochetec, quero uma tela que possibilite meu usuário a cadastrar os fios que ele utiliza. |Médio|
 |US08| Eu, como Crochetec, quero uma tela que possibilite meu usuário a gerenciar e cadastrar os fios que ele utiliza. |Médio|
