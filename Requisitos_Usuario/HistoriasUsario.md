@@ -6,7 +6,7 @@
 |US04| Eu, como Crochetec, uma tela que possibilite o usuário a escolher o sistema métrico que deseja utilizar para contar as linhas. |Média|-|
 |US05| Eu, como Crochetec, quero uma tela para o usuário adicionar agulhas. |Baixa|RF|
 |US06| Eu, como Crochetec, quero uma tela que mostre todas as agulhas cadastradas e que possibilite cadastrar mais. |Média|RF|
-|US07| Eu, como Crochetec, quero uma tela que possibilite meu usuário a cadastrar os fios que ele utiliza. |Médio|-|
+|US07| Eu, como Crochetec, quero uma tela que possibilite meu usuário a cadastrar os fios que ele utiliza. |Média|-|
 |US08| Eu, como Crochetec, quero uma tela que possibilite meu usuário a gerenciar e cadastrar os fios que ele utiliza. |Baixa|RF|
 |US09| Eu, como Crochetec, quero uma tela que possibilite meu usuário a cadastrar os projetos no formato PDF,PNG ou JPG para que possa consultar a qualquer hora. |Alta|RF|
 |US10| Eu, como Crochetec, quero uma tela que possibilite meu usuário a gerenciar e cadastrar os projetos no formato PDF,PNG ou JPG. |Alta|RF|
