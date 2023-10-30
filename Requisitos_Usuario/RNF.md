@@ -1,4 +1,4 @@
-# Requisitos Funcionais
+# Requisitos Não Funcionais
 
 | ID   | Requisito NF                                                                                                 | Prioridade     |  Categoria/Tipo  |  Requisitos Relacionados |
 | ---- | ------------------------------------------------------------------------------------------------------------ | ------------------ | -------------- | ----------------------- |
