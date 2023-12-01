@@ -26,6 +26,6 @@ O projeto tem como público alvo todo e qualquer entusiasta de trabalhos em croc
 ## Conteúdo
 <ul>
   <li>Requisitos de usuário em .md</li>
-  <li>Diagramas do sistema em .pdf</li>
+  <li>Diagramas do sistema em .asta</li>
   <li>Protótipos de tela em .jpg;</li>
 </ul>
